@@ -1,6 +1,6 @@
 # Company Name : Amazon 
 /* Management wants to analyze only employees with official job titles. Find the job titles of the employees with the highest salary.
-If multiple employees have the same highest salary, include all their job titles.*/
+  If multiple employees have the same highest salary, include all their job titles.*/
 
 # Code 
 
